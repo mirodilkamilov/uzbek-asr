@@ -1,0 +1,1488 @@
+1
+00:00:00,000 --> 00:00:03,860
+Assalomu alaykum hammaga, mening ism Murodov Kamilov,
+
+2
+00:00:03,860 --> 00:00:08,420
+80 universitetining AI engineering fakulteti magistratura talabasiman.
+
+3
+00:00:08,420 --> 00:00:12,540
+Ushbu videoda 3.5-4 oy mobaynida ustida ishlab
+
+4
+00:00:12,540 --> 00:00:16,440
+kelayotgan loyihani natijalarini ko'rsatmoqchi edim.
+
+5
+00:00:16,440 --> 00:00:21,100
+Ushbu loyiha aynan o'zbek ovozini, o'zbek tekstiga
+
+6
+00:00:21,100 --> 00:00:22,960
+o'tkazib berish uchun xizmat qiladi, ya'ni ingliz
+
+7
+00:00:22,960 --> 00:00:29,300
+tilida aytganda transkript.slaydlar ingliz tilida, chunki aynan
+
+8
+00:00:29,300 --> 00:00:34,280
+shu slaydlardan, deyarli shu slaydlardan foydalanib, professorlarimizga
+
+9
+00:00:34,280 --> 00:00:35,920
+loyihani ko'rsatib bergan edik.
+
+10
+00:00:35,920 --> 00:00:38,960
+Keyin slaydlarni ingliz tiliga o'tkazib chiqish uchun
+
+11
+00:00:38,960 --> 00:00:41,420
+ozgincha erindim, o'zbek tiliga o'tkazib chiqish uchun
+
+12
+00:00:41,420 --> 00:00:43,000
+erindim ozgincha.
+
+13
+00:00:43,000 --> 00:00:46,920
+Shuning uchun slaydlar ingliz tilida, lekin o'zim
+
+14
+00:00:46,920 --> 00:00:49,180
+o'zbek tilida ko'rsatib chiqaman.
+
+15
+00:00:49,180 --> 00:00:55,000
+Keyinchalik aynan pastda ko'rib turgan yoziguylar bu
+
+16
+00:00:55,000 --> 00:01:00,780
+ushbu modldan foydalanib transkarib qilingan.
+
+17
+00:01:00,780 --> 00:01:04,700
+Keyin oxirida xato qanchalik xato darajada ishlayotganini
+
+18
+00:01:04,700 --> 00:01:06,500
+ko'rib chiqishimiz mumkin.
+
+19
+00:01:06,500 --> 00:01:10,700
+E'tibor berishinglar oxiridim, ya'ni meni ovozim bu
+
+20
+00:01:10,700 --> 00:01:13,420
+modulni o'rgatishda hech qachon ishlatilmagan.
+
+21
+00:01:13,420 --> 00:01:18,060
+Va o'zi savol tug'ilishi mumkin.
+
+22
+00:01:18,060 --> 00:01:21,600
+Spitsotex modullarini qayerda ishlatiladi o'zi?
+
+23
+00:01:21,600 --> 00:01:24,500
+Nimaga kerak degan savol bo'lishi mumkin.
+
+24
+00:01:24,500 --> 00:01:27,300
+Birinchi hayolga kelgan narsa bu aksessiblisi, ya'ni
+
+25
+00:01:27,300 --> 00:01:34,940
+kar yoki qulog'i yaxshi eshitmaydigan insonlarni video
+
+26
+00:01:34,940 --> 00:01:41,880
+yoki boshqa bir audio'larni eshitayotganlarida pastida transkrib
+
+27
+00:01:41,880 --> 00:01:44,580
+qilib, ya'ni yozuv kuni nima aytilayotganini yozuv
+
+28
+00:01:44,580 --> 00:01:46,460
+kuni yozib borish imkoniyati bo'ladi.
+
+29
+00:01:46,460 --> 00:01:52,200
+Aynan ularEshitmaganlarga sababli, yaxshi eshitmaganlarga sababli pastligi
+
+30
+00:01:52,200 --> 00:01:55,020
+yozuvini o'qib turib tushunish imkoniyati ega bo'lishlari
+
+31
+00:01:55,020 --> 00:01:55,880
+mumkin.
+
+32
+00:01:55,880 --> 00:02:02,220
+Yoki har xil nima deydi, smartfonlarni voice
+
+33
+00:02:02,220 --> 00:02:03,720
+komandalar uchun ishlatilishi mumkin.
+
+34
+00:02:03,720 --> 00:02:05,780
+Chiroq nochi,, chiroqni yoq.
+
+35
+00:02:05,780 --> 00:02:09,980
+Shunaqa vazifalar bajarish imkoniyati bo'ladi.
+
+36
+00:02:09,980 --> 00:02:15,460
+Yana Realtime Translation bu misol uchun Google
+
+37
+00:02:15,460 --> 00:02:18,360
+Translate'da ham ochgan bo'lsanglar, o'sha yerda aynan
+
+38
+00:02:18,360 --> 00:02:22,160
+ovoz orqali kiritish imkoniyati bor tekstni, ya'ni
+
+39
+00:02:22,160 --> 00:02:23,740
+ovozini yoqib turasizlar.
+
+40
+00:02:23,740 --> 00:02:27,700
+Bu yoqdan ichkarida o'sha Google o'zini modelini
+
+41
+00:02:27,700 --> 00:02:29,540
+ishlatib turib, speech to text modelini ishlatib
+
+42
+00:02:29,540 --> 00:02:32,580
+turib, sizga gapirganing ovozini tekst ko'rinishiga o'tkazadi
+
+43
+00:02:32,580 --> 00:02:36,200
+va u tekst ko'rinishini keyin tarjima qiladi.
+
+44
+00:02:36,200 --> 00:02:41,660
+Shunaqa yo'llarda ishlatish imkoniyati bo'ladi va yana
+
+45
+00:02:41,660 --> 00:02:43,280
+hayron kelganini bu men aynan mana shunaa
+
+46
+00:02:43,280 --> 00:02:49,740
+Zoom miting yoki darslarda audio qilib yozib
+
+47
+00:02:49,740 --> 00:02:52,240
+olasiz va keyinchalik misol uchun uyga borganingizda
+
+48
+00:02:52,240 --> 00:02:55,480
+yoki boshqa miting bo'lsa o'sha yozib olgan
+
+49
+00:02:55,480 --> 00:03:02,020
+videoingiz orqali notlar yoki umuman hamma ichidagi
+
+50
+00:03:02,020 --> 00:03:05,380
+ma'lumotlarni tekst ko'rinishiga o'tkazish imkoniyati bo'ladi.
+
+51
+00:03:05,380 --> 00:03:10,100
+Keyinchalik u balki muhim nuqtalarni intihonga tayyorlanayotganda,
+
+52
+00:03:10,100 --> 00:03:14,260
+boshqa bo'layotganda ishlatish imkoniyati bo'ladi yoki yana
+
+53
+00:03:14,260 --> 00:03:18,880
+har xil media monitoring yo'llari ham bor.
+
+54
+00:03:18,880 --> 00:03:27,440
+Qisqasi o'ylaymanki, bu kabi modullarni ishlatib bilish
+
+55
+00:03:27,440 --> 00:03:31,060
+imkoniyatlari ko'p deb o'ylayman.
+
+56
+00:03:31,060 --> 00:03:34,660
+Shu loyiha ustida ishlayotganimda ko'p muammolarni kuzatdim.
+
+57
+00:03:34,660 --> 00:03:40,380
+Bularning asosiylaridan bittasi o'sha 34 million aholi
+
+58
+00:03:40,380 --> 00:03:43,080
+aynan o'zbek tilida birinchi til sifatida ishlatadi
+
+59
+00:03:43,080 --> 00:03:48,960
+statistikaga qaraganda va bu til aynan AI
+
+60
+00:03:48,960 --> 00:03:56,220
+sohasida juda sayoz resursga ega til hisoblanadi.
+
+61
+00:03:56,220 --> 00:03:59,440
+Bu gapimga bir yaxshi misol sifatida aynan
+
+62
+00:03:59,440 --> 00:04:04,460
+VSPR, Open AIning VSPR moduli bor-yo'g'i o'zbek
+
+63
+00:04:04,460 --> 00:04:10,380
+tilida 18 minutgina audio data bilan audiodatda
+
+64
+00:04:10,380 --> 00:04:13,260
+ishlatilib o'rgatilgandek va natija albatta juda yomon
+
+65
+00:04:13,260 --> 00:04:16,440
+116% world error rate, unaqa ko'ramiz world
+
+66
+00:04:16,440 --> 00:04:20,080
+error rate nimaligini solishtirish, shunchaki solishtirish sifatida
+
+67
+00:04:20,080 --> 00:04:26,540
+turktirib, 4300 soat audio data ishlatilgan va
+
+68
+00:04:26,540 --> 00:04:32,860
+taxminan 16% Word error rate natijasiga erishilgan.
+
+69
+00:04:32,860 --> 00:04:36,160
+Yana solishtirish jihatidan nemis tili 13000 soat
+
+70
+00:04:36,160 --> 00:04:39,040
+audio data ishlatilgan, aynan whisper small moddalarni
+
+71
+00:04:39,040 --> 00:04:41,120
+qurish davomida.
+
+72
+00:04:41,120 --> 00:04:44,280
+13000 soat va misol uchun 4300 soat
+
+73
+00:04:44,280 --> 00:04:47,460
+audio oldida 18 minut bu albatta hech
+
+74
+00:04:47,460 --> 00:04:49,200
+narsa emas.
+
+75
+00:04:49,200 --> 00:04:52,680
+Yana keyingi kuzatgan muammolarimdan asosiylardan bittasi bu
+
+76
+00:04:52,680 --> 00:04:57,020
+o'sha o'zbek tilida reid speech data setlari
+
+77
+00:04:57,020 --> 00:05:00,920
+ko'pligi va conversational spontaneous speechlar kamligi.
+
+78
+00:05:00,920 --> 00:05:03,980
+Hozir tushuntiraman, ya'ni reid speech deganda bu
+
+79
+00:05:03,980 --> 00:05:06,500
+kimgadir tekst beriladi.
+
+80
+00:05:06,500 --> 00:05:09,580
+O'sha tekstni keyin o'sha odam o'qib beradi.
+
+81
+00:05:09,580 --> 00:05:11,960
+O'qib berilgan audio yozib olilgan, o'sha o'qib
+
+82
+00:05:11,960 --> 00:05:15,080
+berilgan audioni keyin o'sha datasetga qo'shiladida.
+
+83
+00:05:15,080 --> 00:05:20,220
+Lekin bundagi datasetlar yaxshi, yaxshi, lekin ko'p
+
+84
+00:05:20,220 --> 00:05:23,460
+odam ishlab, ko'p odam qatnashishi mumkin, har
+
+85
+00:05:23,460 --> 00:05:27,160
+xil dialektlarni ko'rsa bo'ladi, lekin muammolardan bittasi
+
+86
+00:05:27,160 --> 00:05:31,100
+odatda yozilgandan keyin odatda adabiy tilda yoziladi,
+
+87
+00:05:31,100 --> 00:05:36,140
+farzand bo'ladi va o'qiyotganda inson misol uchun
+
+88
+00:05:36,140 --> 00:05:39,300
+kamroq xato qiladi-da, yoki to'xtab qolishi, pauza
+
+89
+00:05:39,300 --> 00:05:44,100
+qilishi, boshqa tillarni qo'shib yuborishi, gapini qaytarishiaytarishi
+
+90
+00:05:44,100 --> 00:05:49,920
+kabi muammolar bo'lmaydi, lekin conversationcontinuous speech misol
+
+91
+00:05:49,920 --> 00:05:54,440
+uchun intervyulardan, podkastlardan, har xil joylardan odam
+
+92
+00:05:54,440 --> 00:06:01,780
+haqiqatda ozaki gapirayotganda, bu narsa yaqqol farq
+
+93
+00:06:01,780 --> 00:06:04,820
+qiladida, o'sha shu kabi data setlar kam,
+
+94
+00:06:04,820 --> 00:06:07,600
+lekin read speech data setlar ko'p yetarli
+
+95
+00:06:07,600 --> 00:06:08,620
+deb hisoblayman.
+
+96
+00:06:08,620 --> 00:06:11,700
+Va yana kuzatgan muammolarimdan bittasi bu bor-yo'g'i
+
+97
+00:06:11,700 --> 00:06:14,620
+beshdagini ochiq modullarini ko'rdim.
+
+98
+00:06:14,620 --> 00:06:18,900
+Qaysiki yaxshi bir natija ko'rsatayotgan va ularni
+
+99
+00:06:18,900 --> 00:06:22,080
+deyarli barchasi o'sha beshta modullarning deyarli barchasi
+
+100
+00:06:22,080 --> 00:06:30,280
+adashmasam shu to'rttasi chiqarayotganda tekstni taxmin qilayotganda
+
+101
+00:06:30,280 --> 00:06:35,100
+hamma tekstni kichkina harflarda yozilgan, lekin nima
+
+102
+00:06:35,100 --> 00:06:37,620
+deydi, tanish belgilari bor.
+
+103
+00:06:37,620 --> 00:06:40,880
+Shuning uchun tutqib belgisi nuqta vergul, u
+
+104
+00:06:40,880 --> 00:06:44,360
+kabi tanish belgilari bor.
+
+105
+00:06:44,360 --> 00:06:48,560
+Lekin agar tekstni kichik harflarni, faqat kichik
+
+106
+00:06:48,560 --> 00:06:51,840
+harflarni yozilsa, uni o'qish ham qiyin-da.
+
+107
+00:06:51,840 --> 00:06:55,640
+Ko'pincha noqulaylikni tutib tug'dirishi mumkin.
+
+108
+00:06:55,640 --> 00:06:58,360
+To'g'ri, lekin bu muammoni oddiygina script, Python
+
+109
+00:06:58,360 --> 00:07:00,460
+script bilan har qilishi mumkin.
+
+110
+00:07:00,460 --> 00:07:05,760
+Lekin afsuski shunaqa muammolarni kuzatdim-da.
+
+111
+00:07:05,780 --> 00:07:08,780
+Mana bu yerda Word error rate nimaligi,
+
+112
+00:07:08,780 --> 00:07:11,200
+sizni mana ikkita tekst bor, bir sizni
+
+113
+00:07:11,200 --> 00:07:15,520
+moddingizni taxmin qiladigan tekst va ikkinchisi reference
+
+114
+00:07:15,520 --> 00:07:19,940
+tekst, ya'ni o'zi haqiqatda to'g'ri bo'lgan tekst.
+
+115
+00:07:19,940 --> 00:07:26,380
+Ikkalasini bir-biriga solishtirayotganda so'zlarni o'zgargan so'zlari misolchun,
+
+116
+00:07:26,380 --> 00:07:29,060
+taxmin qilayotganda ba'zi so'zlarni o'zgartirib yozgan bo'lishi
+
+117
+00:07:29,060 --> 00:07:29,540
+mumkin.
+
+118
+00:07:29,540 --> 00:07:31,540
+Xato, imloviy xato qilib, misol uchun, yoki
+
+119
+00:07:31,540 --> 00:07:33,580
+ba'zi so'zlarni o'chirib tashlagan bo'lishi mumkin, yoki
+
+120
+00:07:33,580 --> 00:07:36,760
+ba'zi so'zlarni o'zidan, modul o'zidan o'zi shunaqa
+
+121
+00:07:36,760 --> 00:07:39,060
+eshitildi deb o'ylab qo'shib yuborgan bo'lishi mumkin.
+
+122
+00:07:39,060 --> 00:07:43,120
+Aynan o'sha so'zlarni sonini hammasini qo'shamiz.
+
+123
+00:07:43,120 --> 00:07:47,460
+Ularni bo'lamiz, Siz to'g'ri deb bilgan tekstni
+
+124
+00:07:47,460 --> 00:07:50,200
+so'zlar soniga o'shanda world error rate kelib
+
+125
+00:07:50,200 --> 00:07:50,960
+chiqadi.
+
+126
+00:07:50,960 --> 00:07:52,980
+Shuning uchun ham misol uchun 116% chiqishini
+
+127
+00:07:52,980 --> 00:07:58,540
+sababi ham balki model o'zidan-o'zi ko'p so'zlarni
+
+128
+00:07:58,540 --> 00:08:00,020
+qo'shgan bo'lishi mumkin.
+
+129
+00:08:00,020 --> 00:08:04,220
+Loyihaning eng asosiy maqsadlaridan o'zi boshlaganimda sababi
+
+130
+00:08:04,220 --> 00:08:08,140
+AI sohasida bir amaliy bir kattaroq bir
+
+131
+00:08:08,140 --> 00:08:10,560
+amaliy ish qilib ko'rish va bu ish
+
+132
+00:08:10,560 --> 00:08:14,320
+davomida yangi narsalar o'rganish edi.
+
+133
+00:08:14,320 --> 00:08:20,480
+Undan tashqari, ya'ni qo'llagigancha yaxshiroq bir o'zbek
+
+134
+00:08:20,480 --> 00:08:23,460
+o'sha automatik spichirovka krediti yoki sp yoki
+
+135
+00:08:23,460 --> 00:08:30,600
+speech detection modelni yaratish edi.va umid qildimki,
+
+136
+00:08:30,600 --> 00:08:33,100
+ya'ni bu narsani open source qilib, ya'ni
+
+137
+00:08:33,100 --> 00:08:37,020
+ochiq qilib ko'rsatib, kim ishlatmoqchi bo'lsa, bemalol
+
+138
+00:08:37,020 --> 00:08:39,720
+ishlatish imkoniyatiga ega bo'lsin deb niyat qilgandim
+
+139
+00:08:39,720 --> 00:08:45,460
+va undan tashqari kichikroq modulni tuzib, undan
+
+140
+00:08:45,460 --> 00:08:50,460
+kerak bo'lsa, oddiy odam kompyuterni oddiy protsessorda
+
+141
+00:08:50,460 --> 00:08:54,660
+ham ishlatib olish qobiliyati bo'lishini niyat qilgandim.
+
+142
+00:08:54,660 --> 00:08:57,720
+Bu loyihaga eng kerak bo'ladigan narsa, albatta,
+
+143
+00:08:57,720 --> 00:08:58,980
+bu data edi.
+
+144
+00:08:58,980 --> 00:09:04,360
+Ochiq bo'lgan datasetlarni qidirib ko'rsam, aynan shu
+
+145
+00:09:04,360 --> 00:09:06,920
+oltita data set chiqdi.
+
+146
+00:09:06,920 --> 00:09:08,400
+Yana bitta data set bor edi, Google's
+
+147
+00:09:08,400 --> 00:09:12,120
+data setlar, lekin bu data setda bu
+
+148
+00:09:12,120 --> 00:09:14,580
+yoqqa foydalanmadim, bu yoqqa ham qo'shma edim,
+
+149
+00:09:14,580 --> 00:09:18,140
+chunki o'zbek tili uchun juda bir kam
+
+150
+00:09:18,140 --> 00:09:19,800
+ma'lumot bor edi u yerda.
+
+151
+00:09:19,800 --> 00:09:22,740
+Shularni o'zi oltita data setni o'zini hammasini
+
+152
+00:09:22,740 --> 00:09:27,780
+qo'shadigan bo'lsak, taxminan 1750 soat data bor
+
+153
+00:09:27,780 --> 00:09:29,920
+ekan, aynan o'zbek tili uchun.
+
+154
+00:09:29,920 --> 00:09:34,540
+Bu qaysidir ma'noda kam bo'lishi mumkin, chunki
+
+155
+00:09:34,540 --> 00:09:36,840
+mana hozir aytaman, to'rtta data tepadagi ko'rib
+
+156
+00:09:36,840 --> 00:09:39,040
+turgan to'rtta datasetinglar aynan reed speech bo'yicha
+
+157
+00:09:39,040 --> 00:09:43,840
+reed speech deganda shu boya aytgandek insonlarga
+
+158
+00:09:43,840 --> 00:09:46,560
+o'sha tekst bergan, tekstni o'qib berishgan.
+
+159
+00:09:46,560 --> 00:09:48,460
+O'sha aynan o'sha audio sinidan foydalanib, dataset
+
+160
+00:09:48,460 --> 00:09:49,580
+qurishgan-da.
+
+161
+00:09:49,580 --> 00:09:53,300
+Aytganimdek, bu dataset reed speechda insonlar ko'p
+
+162
+00:09:53,300 --> 00:09:56,120
+qo'b ham xato qilmaydi.
+
+163
+00:09:56,120 --> 00:10:00,440
+Qayta misol uchun o'zini qaytarmaydi, tutilishlar yo'q.
+
+164
+00:10:00,440 --> 00:10:04,000
+Boshqa tilga o'tib ketishi yo'q.
+
+165
+00:10:04,000 --> 00:10:05,960
+Misol uchun rus tilidan bir ikkitaatlarni qo'shib,
+
+166
+00:10:05,960 --> 00:10:08,100
+ingliz tilidan sulatlarni qo'shib shu yo'q.
+
+167
+00:10:08,100 --> 00:10:12,360
+Va odatda farmat yozilgan bo'ladi, yozilgandan keyin
+
+168
+00:10:12,360 --> 00:10:13,880
+adabiy tilda o'qiniladi.
+
+169
+00:10:13,880 --> 00:10:19,940
+Odatda shu kabi muammoli asosiysi o'sha retspechta
+
+170
+00:10:19,940 --> 00:10:22,380
+bor, lekin ular ham umuman foydalanishi kerak
+
+171
+00:10:22,380 --> 00:10:23,880
+emas degan emas, albatta.
+
+172
+00:10:23,880 --> 00:10:26,440
+Shu data setlar bor turtttasi, reyspech bo'yicha
+
+173
+00:10:26,440 --> 00:10:30,400
+yana ikkitasi, pastligi ikkitasi, conversationally, ya'ni haqiqiy
+
+174
+00:10:30,400 --> 00:10:34,900
+og'zaki nutqni ko'rsatib beradigan ikkita dataset bor.
+
+175
+00:10:34,900 --> 00:10:39,380
+Ya'ni o'sha podkastlarda olingan, intervyularda olingan, haqqi
+
+176
+00:10:39,380 --> 00:10:42,060
+yutuq videolarda olingan.
+
+177
+00:10:42,060 --> 00:10:45,420
+Shu bu haqiqiy o'sha nutqni ko'rsatib bera
+
+178
+00:10:45,420 --> 00:10:48,700
+oladigan datazatlar, lekin muammosi Gemini 2.5 Pro
+
+179
+00:10:48,700 --> 00:10:53,620
+orqali tekstini generatsiya qilingan.
+
+180
+00:10:53,620 --> 00:10:57,580
+Bu albatta yomon tarafi Gemini 2.5 Pro
+
+181
+00:10:57,580 --> 00:11:00,420
+ham o'zini xato xato qiladi transkript qilayotgani,
+
+182
+00:11:00,420 --> 00:11:02,980
+aynan o'zbek tilida bu o'zbek tilidagi qilgan
+
+183
+00:11:02,980 --> 00:11:06,580
+xatolarni keyin modulda ishlatadigan bo'lsak, modul ham
+
+184
+00:11:06,580 --> 00:11:09,160
+aynan shu xatolarini o'rganib qolishi mumkin-da.
+
+185
+00:11:09,160 --> 00:11:11,260
+Shu kabi muammolar bor.
+
+186
+00:11:11,260 --> 00:11:13,240
+Umumiy olganda har bitta datasetni yaxshi yomon
+
+187
+00:11:13,240 --> 00:11:14,400
+taraflari bor.
+
+188
+00:11:14,400 --> 00:11:16,780
+Shu endi ko'rib chiqishinglar mumkin.
+
+189
+00:11:16,780 --> 00:11:19,280
+Yana e'tibor berishinglar mumkin, e'tibor berishinglarni qoladigan
+
+190
+00:11:19,280 --> 00:11:19,940
+bo'lardim.
+
+191
+00:11:19,940 --> 00:11:25,600
+Mayli, reets speech datasetlarimizni ham 80%, taxminan
+
+192
+00:11:25,600 --> 00:11:30,260
+obshiy qilib olganda taxminan 80% tekshirilmagan.
+
+193
+00:11:30,260 --> 00:11:36,440
+Tekshirilgan deganda odatda kamida ikkita to'g'ri deb
+
+194
+00:11:36,440 --> 00:11:37,320
+kimdir hisoblaydi.
+
+195
+00:11:37,320 --> 00:11:40,160
+Uni odamlar yozib chiqqandan keyin uni boshqa
+
+196
+00:11:40,160 --> 00:11:41,900
+odamlar tekshiradi-da.
+
+197
+00:11:41,900 --> 00:11:45,680
+Tekst bilan audio yozilgan audio bir-biriga mos
+
+198
+00:11:45,680 --> 00:11:48,640
+kelyaptimi, hech qanaqa o'qilayotganini xato qilmadimi degandek
+
+199
+00:11:48,640 --> 00:11:49,540
+tekshiriladi.
+
+200
+00:11:49,540 --> 00:11:53,500
+Aynan tekshirilganda taxminan eng kamida ikkita tekshirilgan
+
+201
+00:11:53,500 --> 00:11:56,160
+ovoz bo'lishi kerak, to'g'ri deb bergan va
+
+202
+00:11:56,160 --> 00:12:02,300
+to'g'ri deb bergani noto'g'ri deb berganidan ko'p
+
+203
+00:12:02,300 --> 00:12:03,440
+bo'lishi kerak.
+
+204
+00:12:03,440 --> 00:12:06,660
+Albatta, ikkitagina ovozga juda kam.
+
+205
+00:12:06,660 --> 00:12:12,360
+Shunda ham 80%imiz, 80% dati tekshirilmagan-da.
+
+206
+00:12:12,360 --> 00:12:14,760
+Xo'p.
+
+207
+00:12:14,760 --> 00:12:22,000
+Yana bu data setlarini eng ishlatilmaganim, men
+
+208
+00:12:22,000 --> 00:12:24,780
+ishlatmaganim, ishlatmaslikka qaror qilganim bu o'zbek speech
+
+209
+00:12:24,780 --> 00:12:28,500
+korpusi, chunki o'tda e'tibor bergan bo'lsakda mana
+
+210
+00:12:28,500 --> 00:12:33,940
+hamma tekstlar kichkina harf bilan yozilgan va
+
+211
+00:12:33,940 --> 00:12:38,900
+va tinish belgilari umuman yo'q.
+
+212
+00:12:38,900 --> 00:12:46,220
+Men maqsadim aynan tinish belgilik, o'sha katta
+
+213
+00:12:46,220 --> 00:12:49,820
+harflarni katta kichikligiga e'tibor beradigan modullar tuzmoqchi
+
+214
+00:12:49,820 --> 00:12:50,620
+edim.
+
+215
+00:12:50,620 --> 00:12:52,480
+Unday modul tuzish uchun data is ham
+
+216
+00:12:52,480 --> 00:12:55,920
+shunday modul bo'lishi kerakda, shunday tekstda bo'lishi
+
+217
+00:12:55,920 --> 00:12:56,900
+kerakda.
+
+218
+00:12:56,900 --> 00:13:00,860
+Qiyin qaram bu data pre-processing audio uchun
+
+219
+00:13:00,860 --> 00:13:01,680
+edi.
+
+220
+00:13:01,680 --> 00:13:08,740
+Ya'ni audioni modul tezroq o'rgana olishi uchun
+
+221
+00:13:08,740 --> 00:13:11,940
+yordam berish uchun avziolarni muvofiqlashtirish misol uchun,
+
+222
+00:13:11,940 --> 00:13:16,180
+o'sha sampling reytni bir xil bo'lishi yoki
+
+223
+00:13:16,180 --> 00:13:20,220
+anavi har xil background shovqin juda misol
+
+224
+00:13:20,220 --> 00:13:26,100
+uchun katta background shovqinlarni kesish yoki uzoq
+
+225
+00:13:26,100 --> 00:13:28,440
+bo'lgan pauzalarni yo'qotish, misol uchun mana bir
+
+226
+00:13:28,440 --> 00:13:33,620
+sekundda uzoq pauza bo'lsa, o'shani qisqartirish yoki
+
+227
+00:13:33,620 --> 00:13:42,160
+audio'ni ovoz darajasini juda baland bo'lsa, pasaytirish,
+
+228
+00:13:42,160 --> 00:13:46,280
+juda past bo'lsa sal ko'tarish, shunaqangi sodda
+
+229
+00:13:46,280 --> 00:13:50,720
+bir muvofiqlashtirishlar, audio muvofiqlashtirishlarni ishlatdim.
+
+230
+00:13:50,720 --> 00:13:54,020
+Keyingi muvofiqlashtirgan narsa bu albatta tekst, chunki
+
+231
+00:13:54,020 --> 00:13:58,180
+aytganimdek o'sha data setlarda audio bor va
+
+232
+00:13:58,180 --> 00:14:00,880
+unga muvofiq bo'lgan teksti bor.
+
+233
+00:14:00,880 --> 00:14:04,260
+O'sha tekst audioni endi to'g'irladik, muvofiqlashtirdik, qulagagancha
+
+234
+00:14:04,260 --> 00:14:05,500
+endi tekstni.
+
+235
+00:14:05,500 --> 00:14:09,160
+Tekstni muvofiqlashtirish o'sha mana shu qilgan barcha
+
+236
+00:14:09,160 --> 00:14:12,460
+qadamlarimni ko'rsanglar bo'ladi.
+
+237
+00:14:12,460 --> 00:14:15,700
+Menimcha eng muhim e'tibor beradiganinglar, adashmasam mana
+
+238
+00:14:15,700 --> 00:14:19,180
+shu o'zbek tilidagi apostorflarni to'g'irlash, misol uchun,
+
+239
+00:14:19,180 --> 00:14:21,380
+datasetni juda har xil apostorflash kiritilgan.
+
+240
+00:14:21,380 --> 00:14:23,820
+Bittasi bunaqa, bittasi bunaqa har xil o'sha
+
+241
+00:14:23,820 --> 00:14:28,260
+har xilligini oldini olish uchun bittagina o'sha
+
+242
+00:14:28,260 --> 00:14:30,600
+oddiy soddagina o'sha apostor va oddiy muddatini
+
+243
+00:14:30,600 --> 00:14:32,960
+ishlatib, apostorflarni ishlatibdim.
+
+244
+00:14:32,960 --> 00:14:37,840
+Chunki o'sha model o'sha sodda, oddiylik bilan
+
+245
+00:14:37,840 --> 00:14:42,600
+o'rganib olib, keyin misol uchun qayta oxirida
+
+246
+00:14:42,600 --> 00:14:45,320
+natija chiqqandan keyin uni oddiygina paytda skrip
+
+247
+00:14:45,320 --> 00:14:49,260
+bilan to'g'irli, o'zingiz xohlagan ko'rinishda, o'zingiz xohlagan
+
+248
+00:14:49,260 --> 00:14:51,820
+formatga o'tkazib olishingiz oson, chunki misol uchun,
+
+249
+00:14:51,820 --> 00:14:55,540
+ov, g harflaridan keyin agar tutib bergisi
+
+250
+00:14:55,540 --> 00:14:57,740
+kelsa, demak bu o'ni bildirayotgan bo'ladi yoki
+
+251
+00:14:57,740 --> 00:15:00,240
+gdan keyin tutib bergisi, o'sha apostolik kelayotgan
+
+252
+00:15:00,240 --> 00:15:02,320
+bo'lsa, demak bu g'ini bildiradi.
+
+253
+00:15:02,320 --> 00:15:05,140
+U o'tda o'zingiz xohlagan bir formatdagi apostola
+
+254
+00:15:05,140 --> 00:15:06,640
+ishlatib yuboshingiz mumkin.
+
+255
+00:15:06,640 --> 00:15:08,940
+Demak O bilan G bo'lmasa, demak bu
+
+256
+00:15:08,940 --> 00:15:10,840
+yerda bu haqiqiy tutuq belgisi bo'lyapti.
+
+257
+00:15:10,840 --> 00:15:13,940
+Misol uchun ne'mat so'zligi o'sha tutuq belgisi,
+
+258
+00:15:13,940 --> 00:15:17,040
+uni o'zingiz xohlagan formatda o'ta qilishingiz mumkin.
+
+259
+00:15:17,040 --> 00:15:19,200
+Bu oddiygina Python script bilan tug'ilasiz bo'ladi
+
+260
+00:15:19,200 --> 00:15:20,080
+deb o'ylayman.
+
+261
+00:15:20,080 --> 00:15:22,400
+Undan tashqari o'sha boya ko'rganinglardagi Firuza speech
+
+262
+00:15:22,400 --> 00:15:26,760
+ham aslida shu paporni o'qib ko'rganida kiritdik
+
+263
+00:15:26,760 --> 00:15:29,540
+tekstdan foydalanilgan, kiritdik tekstni o'qilgan.
+
+264
+00:15:29,540 --> 00:15:31,460
+Keyinchalik lotin tekstni ham qo'shilgan.
+
+265
+00:15:31,460 --> 00:15:34,200
+U o'sha har xil onlayn pullar orqali
+
+266
+00:15:34,200 --> 00:15:40,020
+kiritdikstni, o'zbek kiritdikstni o'zbek lotin tekstiga o'tkazilgan,
+
+267
+00:15:40,020 --> 00:15:44,600
+lekin afsuski o'sha juda ko'p xatoliklarga yo'l
+
+268
+00:15:44,600 --> 00:15:45,220
+qo'yilgan.
+
+269
+00:15:45,220 --> 00:15:47,920
+O'sha lotin tekstiga o'tkazilayotganda shuning uchun o'zim
+
+270
+00:15:47,920 --> 00:15:51,880
+majbur bo'lib, shu Feruza spichini ishlatishim uchun
+
+271
+00:15:51,880 --> 00:15:56,260
+kirilik kiril tekstini lotin tekstiga o'tkazadigan bir
+
+272
+00:15:56,260 --> 00:15:59,140
+soddaroq paytda script yozishga to'g'ri keldi.
+
+273
+00:15:59,140 --> 00:16:03,420
+Xo'p, ushbu slaydda men tutgan yo'lni ko'rishinglar
+
+274
+00:16:03,420 --> 00:16:03,900
+mumkin.
+
+275
+00:16:03,900 --> 00:16:08,380
+Umumiy yo'lni asosiy model sifatida Visper small
+
+276
+00:16:08,380 --> 00:16:09,960
+modulani tanladim.
+
+277
+00:16:09,960 --> 00:16:16,240
+Nimaga noldan turib boshidan modelni o'rgatmadim?
+
+278
+00:16:16,240 --> 00:16:19,660
+Chunki bu narsaga juda ko'proq data kerak
+
+279
+00:16:19,660 --> 00:16:20,500
+bo'ladi.
+
+280
+00:16:20,500 --> 00:16:24,800
+Aynan Visper moduli, umuman Visper modulani fine
+
+281
+00:16:24,800 --> 00:16:27,720
+tun qilish, ya'ni uni o'zbek tiliga moslashtirish
+
+282
+00:16:27,720 --> 00:16:31,660
+ancha osonroq, chunki Visper moduli o'zi ko'pgina
+
+283
+00:16:31,660 --> 00:16:34,400
+datani ko'rgan, o'zi tushunadi, misol uchun boshqa
+
+284
+00:16:34,400 --> 00:16:37,880
+tillardagi o'xshashliklar bor, misol uchun turk til
+
+285
+00:16:37,880 --> 00:16:40,920
+bilan o'zbek til o'xshashlik taraflari bor, yoki
+
+286
+00:16:40,920 --> 00:16:47,140
+yoki umuman misol uchun har xil ovoz
+
+287
+00:16:47,140 --> 00:16:49,960
+variantlari borligi, qiz bolani ovozi boshqacha, o'g'ir
+
+288
+00:16:49,960 --> 00:16:54,200
+bolani ovozi boshqachaligi yoki sal ton tushganda,
+
+289
+00:16:54,200 --> 00:16:56,300
+sal ton ko'tarilganda har xil tinish belgilari
+
+290
+00:16:56,300 --> 00:17:00,080
+qo'yilishini umumiy jihatdan til nimaligini, tilini tushunish
+
+291
+00:17:00,080 --> 00:17:03,380
+jihatidan biladida, Visper, chunki uni juda katta
+
+292
+00:17:03,380 --> 00:17:07,320
+data bilan o'rgatilgan.
+
+293
+00:17:07,320 --> 00:17:10,800
+Chunki shunchaki men o'zbek tiliga moslashtirsam bo'ldi.
+
+294
+00:17:10,800 --> 00:17:13,260
+Uni noldan boshlasam, juda ko'p data kerak
+
+295
+00:17:13,260 --> 00:17:14,380
+bo'ladi.
+
+296
+00:17:14,380 --> 00:17:16,120
+Shu darajaga chiqib olish uchun, shuning uchun
+
+297
+00:17:16,120 --> 00:17:19,920
+bor modduxni shunchaki o'zbek tiliga moslashtirishni to'g'ri
+
+298
+00:17:19,920 --> 00:17:20,860
+deb bildim.
+
+299
+00:17:20,860 --> 00:17:25,300
+Keyin universitetga rahmat, juda yaxshi bir kuchli
+
+300
+00:17:25,300 --> 00:17:29,260
+GPUlar berishdi, yaxshi serverlar berishdi.
+
+301
+00:17:29,260 --> 00:17:32,280
+Mazza qilib eksperiment qilishga imkoniyat bo'ldi.
+
+302
+00:17:32,280 --> 00:17:40,240
+Undan tashqari datani sifatini ko'proq urg'u berdim.
+
+303
+00:17:40,240 --> 00:17:46,540
+Qaytangi datani nima deydi, salmoqchi jihatidan ko'ra.
+
+304
+00:17:46,540 --> 00:17:51,080
+Shuning uchun aytganimdek voyaga 80% datamiz, nima
+
+305
+00:17:51,080 --> 00:17:53,440
+deydi, tekshirilmagan datada.
+
+306
+00:17:53,440 --> 00:17:56,200
+O'sha tekshirilmagan o'zi tekshirilgan datada ham o'zi
+
+307
+00:17:56,200 --> 00:17:58,220
+xatoliklarni sezdimda.
+
+308
+00:17:58,220 --> 00:18:01,800
+Shuning uchun, shuning uchun Google speech text
+
+309
+00:18:01,800 --> 00:18:05,380
+modelini yoki GMNi 2.5 Pro modullarini ishlatib
+
+310
+00:18:05,380 --> 00:18:07,320
+turib, audio bilib berdim.
+
+311
+00:18:07,320 --> 00:18:08,960
+O'sha tekstdan taxmin qiladi.
+
+312
+00:18:08,960 --> 00:18:11,740
+O'sha bergan taxmin qilgan tekstini bu yoqda
+
+313
+00:18:11,740 --> 00:18:16,080
+to'g'ri deb, datasetni ichida to'g'ri deb ko'rsatilgan
+
+314
+00:18:16,080 --> 00:18:17,460
+tekstga solishtiraman.
+
+315
+00:18:17,460 --> 00:18:20,500
+Agar kelasi bir-biriga mos kelib turgan bo'lsa,
+
+316
+00:18:20,500 --> 00:18:22,620
+demak buni bemalol ishlasa bo'ladi haqiqatda o'sha
+
+317
+00:18:22,620 --> 00:18:26,040
+berilgan datasetdagi audio bilan tekst to'g'ri ekan,
+
+318
+00:18:26,040 --> 00:18:29,160
+chunki mana boshqa modul ham shunaqa to'g'ri
+
+319
+00:18:29,160 --> 00:18:31,920
+deb tasdiqlayapti deb bemalol qo'rqmasdan ishlatsa bo'ladi
+
+320
+00:18:31,920 --> 00:18:32,860
+deb o'yladim.
+
+321
+00:18:32,860 --> 00:18:36,640
+Shu shunaqa filtr bo'ldim va undan tashqari
+
+322
+00:18:36,640 --> 00:18:42,320
+ikkita stageda ikkita qadam bilan modulni o'rgatishiga
+
+323
+00:18:42,320 --> 00:18:43,060
+qaror qildim.
+
+324
+00:18:43,060 --> 00:18:49,100
+Bittasi datada xatoliklar bo'lishi mumkin.
+
+325
+00:18:49,100 --> 00:18:52,940
+Misol uchun o'sha conversational o'sha haqiqiy Ozaki,
+
+326
+00:18:52,940 --> 00:18:58,420
+Newsdan, IT data setlaridan olingan audio datalarni
+
+327
+00:18:58,420 --> 00:19:02,120
+ichida xatoliklar bo'lishi mumkin, chunki o'sha Google
+
+328
+00:19:02,120 --> 00:19:06,480
+ham taxminan shu narsa bo'l'lsa kredit deyapti,
+
+329
+00:19:06,480 --> 00:19:08,860
+jim bilan o'zini jim bilan bergan progda
+
+330
+00:19:08,860 --> 00:19:11,940
+ham shunda ma'lumotlar bor, ichida muvofiqlik juda
+
+331
+00:19:11,940 --> 00:19:13,100
+yuqori bo'lmasligi mumkin.
+
+332
+00:19:13,100 --> 00:19:15,800
+Bu yerga muvofiq juda yuqori bo'lmasa ham
+
+333
+00:19:15,800 --> 00:19:16,480
+ishlatib turdim.
+
+334
+00:19:16,480 --> 00:19:18,820
+Misol uchun 20% dan kam bo'lsa, bo'ldi
+
+335
+00:19:18,820 --> 00:19:22,040
+mayli ishlatib turdi degandek qaror qabul qildim.
+
+336
+00:19:22,040 --> 00:19:24,900
+Ya'ni maqsad ko'proq dardani ko'rib olish bida
+
+337
+00:19:24,900 --> 00:19:27,260
+mayli xato kamchiliklar bo'lsa ham.
+
+338
+00:19:27,260 --> 00:19:32,020
+Keyin ikkinchida argumentation yo'q, ya'ni audioni har
+
+339
+00:19:32,020 --> 00:19:35,760
+xil ko'rinishni o'zgartirish, misol uchun tonini o'zgartirish
+
+340
+00:19:35,760 --> 00:19:39,700
+ozgincha yoki tezligini tezlashtirish yoki sekinlashtirish shunaqangi
+
+341
+00:19:39,700 --> 00:19:42,040
+argumentationlar yo'q bo'lmadi birinchisida.
+
+342
+00:19:42,040 --> 00:19:44,780
+Ikkinchi qadamda keyin endi tozalroq datani berishni
+
+343
+00:19:44,780 --> 00:19:45,540
+boshladim.
+
+344
+00:19:45,540 --> 00:19:48,180
+Misol uchun 6% dan kam bo'lgan datani
+
+345
+00:19:48,180 --> 00:19:53,120
+ishlatibgina va unda ham ishlatayotganda argumentation, ya'ni
+
+346
+00:19:53,120 --> 00:19:55,300
+oldinga ko'rgan datan bo'lsa, o'sha oldinga ko'rgan
+
+347
+00:19:55,300 --> 00:19:58,520
+to'g'ri datanni argument qildi, ya'ni o'zgartirdim.
+
+348
+00:19:58,520 --> 00:20:02,220
+O'sha tezligini ozgacha tezlashtirdim, birov bir qilib
+
+349
+00:20:02,220 --> 00:20:04,420
+tezlikni berib ko'rdim.
+
+350
+00:20:04,420 --> 00:20:07,220
+Misol uchun 0.9 tezlikda berib ko'rdim, tonini
+
+351
+00:20:07,220 --> 00:20:12,240
+o'zgartirib ko'rdim, har xil o'sha documentationlarni ishlatdim
+
+352
+00:20:12,240 --> 00:20:14,240
+ikkinchi qadamda.
+
+353
+00:20:14,240 --> 00:20:21,040
+Endi men muhimi validation va test setlarimda
+
+354
+00:20:21,040 --> 00:20:25,560
+aytganimdek conversation haqiqiy Ozaki IT va news
+
+355
+00:20:25,560 --> 00:20:28,280
+data setlari haqiqiy Ozaki data setlar va
+
+356
+00:20:28,280 --> 00:20:33,520
+ular Gemini 2.5 Pro dan foydalanib tekstini
+
+357
+00:20:33,520 --> 00:20:35,620
+tuzilganda.
+
+358
+00:20:35,620 --> 00:20:39,740
+Lekin validation va test setlarim uchun alohida
+
+359
+00:20:39,740 --> 00:20:45,240
+o'zim qo'lida tekshirib chiqdim haqiqiy to'g'rimi, noto'g'rimi
+
+360
+00:20:45,240 --> 00:20:48,760
+o'sha aynan o'sha qo'lda tekshirib chiqqanimni keyin
+
+361
+00:20:48,760 --> 00:20:51,680
+o'sha validation va test setlarida ishlatdim haqiqiy
+
+362
+00:20:51,680 --> 00:20:56,060
+bir modulimni natijasini ko'rish uchun endi tekshirayotgan
+
+363
+00:20:56,060 --> 00:21:00,320
+albatta subyektiv bo'lishi mumkin ba'zi joylarda o'zi
+
+364
+00:21:00,320 --> 00:21:01,960
+shu narsa to'g'ri deb bilgan bo'lishi mumkin
+
+365
+00:21:01,960 --> 00:21:07,420
+aslida nima deydi, model boshqacha narsa ham
+
+366
+00:21:07,420 --> 00:21:11,220
+to'g'ri sifatida kim boshqani fikrida boshqa narsa
+
+367
+00:21:11,220 --> 00:21:12,160
+ham to'g'ri bo'lishi mumkin.
+
+368
+00:21:12,160 --> 00:21:17,360
+Misol uchun, shevada gapirilgan narsani haqiqiy shevada
+
+369
+00:21:17,360 --> 00:21:19,240
+Google jimlangan shevada yozayapti.
+
+370
+00:21:19,240 --> 00:21:21,360
+Misol uchun, man degan, man yozayapti, lekin
+
+371
+00:21:21,360 --> 00:21:24,360
+man men deb yozishga qaror qildim.
+
+372
+00:21:24,360 --> 00:21:27,580
+Shunaqa haqiqiy subyektiv fikrlar aralashgan bo'lishi mumkin.
+
