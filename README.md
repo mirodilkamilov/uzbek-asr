@@ -28,6 +28,20 @@ quality over quantity.
 
 Total training data: 335 hours (without augmentation)
 
+**Comparison:**
+
+- Open-Source models comparison on my test set
+
+<p align="center">
+  <img src="resources/comparison.png" alt="Open-Source Models Comparison on my Test Set" width="800"/>
+</p>
+
+- 21.5 minutes of my personal [demo video](https://youtu.be/RS_Bh540Hhs)
+
+<p align="center">
+  <img src="resources/demo_video_comparison.png" alt="21.5 minutes of my personal demo video" width="600"/>
+</p>
+
 ## Important Note
 
 ⚠️ **This model is not publicly released** due to terms of service concerns: using Google's Gemini 2.5 Pro and
@@ -42,7 +56,9 @@ transcribed by Gemini 2.5 Pro. Both are violating the terms.
 **Text Normalization:**
 Training preserves punctuation, casing, and numeric formats to enable naturally formatted transcriptions.
 
-![Text normalization overview](resources/text_normalization_overview.png)
+<p align="center">
+  <img src="resources/text_normalization_overview.png" alt="Text normalization overview" width="550"/>
+</p>
 
 As FeruzaSpeech originally read from Cyrillic script and the Latin script was poorly transliterated by online tool, we
 developed a custom Cyrillic-to-Latin transliteration system based on the 18 orthographic differences documented
